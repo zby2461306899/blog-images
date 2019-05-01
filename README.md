@@ -12,7 +12,9 @@
 
 ![第二步](https://zby2461306899.github.io/blog-images/upload-2.png)
 
-第三步：获取链接。你的图床链接是：https://cdn.7it.ooo。查看你上传的图片的名字（如upload-1.png），那么你的图片链接就是https://cdn.7it.ooo/upload-1.png，以此类推。然后插入博客就可以啦，多简单～
+第三步：获取链接。
+
+你的图床链接是：https://cdn.7it.ooo 查看你上传的图片的名字（如upload-1.png），那么你的图片链接就是https://cdn.7it.ooo/upload-1.png 以此类推。然后插入博客就可以啦，多简单～
 
 **手机端：**先点击下方“desktop version”跳转到电脑版页面，按上述方法进行操作。
 
