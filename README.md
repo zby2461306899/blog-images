@@ -6,11 +6,11 @@
 
 第一步：登录github账号以后，点击upload files。
 
-![第一步](https://cdn.izznan.cn/blog-images/upload-1.png)
+![第一步](https://cdn.izznan.cn/upload-1.png)
 
 第二步：拖拽文件到中间区域或者点击“choose your files”上传。你可以看到中间区域的下方有上传的进度条，等待上传结束，点击下方commit changes即可。
 
-![第二步](https://cdn.izznan.cn/blog-images/upload-2.png)
+![第二步](https://cdn.izznan.cn/upload-2.png)
 
 第三步：获取链接。
 
@@ -18,7 +18,7 @@
 
 **手机端：**先点击下方“desktop version”跳转到电脑版页面，按上述方法进行操作。
 
-![手机端](https://cdn.izznan.cn/blog-images/mobile-version.png)
+![手机端](https://cdn.izznan.cn/mobile-version.png)
 
 **压缩图片**
 
